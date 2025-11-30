@@ -47,10 +47,10 @@ make all
 If it compiles first try, that’s a bug.
 
 ## **Why does this exist?**
--To learn engine dev
--To mess around
--To do cursed stuff in C++
--To over-engineer tiny problems
--Because Unreal is too big, some has to overthrone it, and Unity is… Unity
+- To learn engine dev
+- To mess around  
+- To do cursed stuff in C++  
+- To over-engineer tiny problems  
+- Because Unreal is too big, someone has to overthrone it, and Unity is well… Unity
 
 (Note: ChatGPT is a good writer, and funny too sometimes)
