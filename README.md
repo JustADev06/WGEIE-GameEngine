@@ -8,7 +8,7 @@ This repo is basically me over-engineering everything that shouldn’t be over-e
 If it works — cool.  
 If it crashes — also cool.
 
----
+
 
 ## **What this thing is**
 - A “game engine,” technically  
@@ -17,7 +17,7 @@ If it crashes — also cool.
 - A place for me to break things and call it “learning”  
 - Over-engineered in all the wrong places
 
----
+
 
 ## **What this thing is NOT**
 - Good  
@@ -26,7 +26,7 @@ If it crashes — also cool.
 - Ready for anyone else to use ever  
 - A serious engine of any kind
 
----
+
 
 ## **Features (lol)**
 - Makes a window (most of the time)  
@@ -35,7 +35,7 @@ If it crashes — also cool.
 - Architecture that looked fine at 3AM  
 - Enough code to feel like an engine, not enough to *be* one
 
----
+
 
 ## **Building this monstrosity**
 
