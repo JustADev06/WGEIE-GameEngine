@@ -40,10 +40,9 @@ If it crashes — also cool.
 ## **Building this monstrosity**
 
 ```sh
-mkdir build
+cmake -S . -B ./build
 cd build
-cmake ..
-cmake --build .
+make all
 ```
 If it compiles first try, that’s a bug.
 
